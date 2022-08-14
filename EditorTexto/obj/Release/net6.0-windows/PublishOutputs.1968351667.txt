@@ -1,0 +1,5 @@
+F:\Projects\Projetos - Estudo\EditorTexto\EditorTexto\bin\publish\EditorTexto.exe
+F:\Projects\Projetos - Estudo\EditorTexto\EditorTexto\bin\publish\EditorTexto.dll
+F:\Projects\Projetos - Estudo\EditorTexto\EditorTexto\bin\publish\EditorTexto.deps.json
+F:\Projects\Projetos - Estudo\EditorTexto\EditorTexto\bin\publish\EditorTexto.runtimeconfig.json
+F:\Projects\Projetos - Estudo\EditorTexto\EditorTexto\bin\publish\EditorTexto.pdb
